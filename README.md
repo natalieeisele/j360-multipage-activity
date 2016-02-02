@@ -1,7 +1,5 @@
 <html>
-<head>
-<title> Multi-Page Activity </title>
-</head>
+
 
 <body>
 <h1> Homepage </h1> 
